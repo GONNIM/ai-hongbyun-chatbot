@@ -1,0 +1,8 @@
+__pycache__
+secrets.toml
+.devcontainer
+.DS_Store
+ai_hongbyun_data
+notebook
+.env
+.python-version
